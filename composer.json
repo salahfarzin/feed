@@ -2,6 +2,10 @@
     "name": "ahoraian/feed",
     "description": "A simple package based on PHP to read Atom feeds",
     "license": "MIT",
+    "keywords": [
+        "feed reader",
+        "atom feed"
+    ],
     "authors": [
         {
             "name": "Salah Farzin",

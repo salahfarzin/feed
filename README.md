@@ -7,7 +7,7 @@ This bundle is a simple feed reader that currently supports Atom feeds.
 ## Setup
 
 ```bash
-$ composer require ahoraian\feed
+$ composer require ahoraian/feed
 ```
 
 # Usage
