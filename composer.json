@@ -1,0 +1,24 @@
+{
+    "name": "ahoraian/feed",
+    "description": "A simple package based on PHP to read Atom feeds",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Salah Farzin",
+            "email": "Farzin2008@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Ahoraian\\Feed\\": "src/"}
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Ahoraian\\Feed\\": "tests/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
